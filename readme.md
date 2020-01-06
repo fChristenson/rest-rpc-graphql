@@ -30,5 +30,5 @@ data in to the shape the query is asking for.
 You can think of GraphQL as being a database client and the server a database that takes a query and returns
 a result.
 
-GraphQL is a great choice if you are building an public API where multiple clients will need different shapes
+GraphQL is a great choice if you are building a public API where multiple clients will need different shapes
 of the data in the API or if you have multiple services you need to connect in to one big API.
